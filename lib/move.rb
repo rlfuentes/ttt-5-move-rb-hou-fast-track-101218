@@ -7,7 +7,7 @@ def display_board(board)
 end
 
 
-def move(the board, the position a player wants to fill and their char, X or O')
+def move()
 
 end
 
