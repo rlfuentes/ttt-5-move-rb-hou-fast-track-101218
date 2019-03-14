@@ -7,7 +7,8 @@ def display_board(board)
 end
 
 
-def move()
+def move(user_input)
+  puts
 
 end
 
