@@ -8,9 +8,10 @@ end
 
 
 def move(user_input)
-  puts
+  puts "1"
 
 end
+move
 
 
 # code your input_to_index and move method here!
